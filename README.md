@@ -5,7 +5,11 @@
 <img src="./images/Line.gif" style="display: block; margin: 0; padding: 0; border: 0;">
 
 <div align="center">
-<h3><b style="font-size: 24px;">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 Code Archive !</b> <img src = "./images/meme.gif" style="width: 60px; vertical-align: middle;"/></h3>
+ <img src = "./images/meme.gif" style="width: 60px; vertical-align: middle;"/>
+</div>
+
+<div align="center">
+<h3><b style="font-size: 24px;">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 Code Archive !</b></h3>
 <h3>I'm a Computer Science Student and Full Stack Developer, building web apps and integrating AI to solve tech challenges.</h3>
 </div>
 
