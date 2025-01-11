@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<h3><b style="font-size: 24px;">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 Code Archive !</b></h3>
+<h3><b style="font-size: 24px;">Ꮤ𐌄𐌋𐌂Ꝋ𐌌𐌄 𐌕Ꝋ 𐌌𐌙 𐌂Ꝋ𐌃𐌄 𐌀𐌓𐌂𐋅𐌉ᕓ𐌄 !</b></h3>
 <h3>I'm a Computer Science Student and Full Stack Developer, building web apps and integrating AI to solve tech challenges.</h3>
 </div>
 
