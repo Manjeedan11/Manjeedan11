@@ -21,7 +21,7 @@ style="width: 200px; height: 50px;"/>
 <h2>💫 About Me:</h2>
 <p><h3>🌱 I’m currently learning <strong>React & TypeScript</strong> </h3></p>
 <p><h3>💬 Ask me about <strong>Web development & Gen AI</strong> </h3></p>
-<p><h3 style="line-height: 1.4;">💥As a<strong> <img src="./assets/images/general/meta-logo.png" alt="Meta Logo" style="display: inline-block; vertical-align: text-bottom; height: 1em;"> Enthusiast</strong>, I enjoy discovering & researching <strong>AI models</strong> and their ability to drive the future forward</h3></p>
+<p><h3 style="line-height: 1.4;">💥 I enjoy discovering & researching <strong>AI models</strong> and their ability to drive the future forward</h3></p>
 <p><h3>📫 How to reach me: <a><strong>shakthivelmanjeedan@gmail.com</strong></a></h3></p>
 <p><h3>💼 Portfolio: <img style = "display: inline-block; vertical-align: text-bottom; width:25px;" src="./assets/images/GIFs/preloader.gif"></h3></p>
 
