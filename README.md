@@ -29,7 +29,6 @@ style="width: 200px; height: 50px;"/>
 <h2 align="center"><img src = "./assets/images/GIFs/connectMe.webp" width="40" height="50" style="margin-right: 10px;">Connect With Me 🤝:</img></h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/sri-manjeedan-shakthivel/"><img src="./assets/images/socialHandles/LinkedIn.svg" alt="LinkedIn" width="5%"></a>&#160;&#160;&#160;
-    <a href="https://www.instagram.com/manjeezzz/"><img src="./assets/images/socialHandles/Instagram.svg" alt="Instagram" width="5%"></a>&#160;&#160;&#160;
     <a href="https://discord.com/channels/753249823066423366/1008791746144108605"><img src="./assets/images/socialHandles/discord.svg" alt="Instagram" width="5%"></a>&#160;&#160;&#160;
     <a href="https://www.reddit.com/user/Income-Dense/"><img src="./assets/images/socialHandles/Reddit.png" width="5%" alt="Reddit"></a>&#160;&#160;&#160;
     <a href="https://x.com/manjeedev"><img src="./assets/images/socialHandles/X-logo.svg" width="5%" alt="X"></a>&#160;&#160;&#160;
